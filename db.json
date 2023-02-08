@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Minh Nhả",
+      "age": 20,
+      "email":"minhnha120@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Cao Nguyên",
+      "age": 20,
+      "email":"caonguyencmu@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Đỗ Đăng Phát",
+      "age": 20,
+      "email":"dangphat12-@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
